@@ -1,0 +1,5 @@
+iphone 12 64 56000
+iphone 12 128 61000
+iphone 12 256 72000
+iphone 12_pro 256 78000
+iphone 12_pro_max 512 120000
