@@ -8,3 +8,5 @@ for phone in phones_text:
     phones.append(Phone(*phone.split()))
 
 print(phones[0])
+
+added some text
